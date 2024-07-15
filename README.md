@@ -10,7 +10,7 @@ MTS（Multiscale Time Series）是一种基于改进Mamba模型的高效股票�
 张元鉴，北京邮电大学13组营员
 邮箱：yuanjianzhang2003@163.com
 ### 示例结果
-![](https://github.com/userpandawin/MambaCFE/blob/main/MTS%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0.png)
+![](MTS贵州茅台.png)
 ### 文件结构
 
 ```
