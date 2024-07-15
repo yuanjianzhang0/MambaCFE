@@ -1,4 +1,4 @@
-## README
+## README [中文](https://github.com/userpandawin/MambaCFE/blob/main/README_CN.md)[English](https://github.com/userpandawin/MambaCFE/blob/main/README_EN.md)
 
 # MTS: An Efficient Stock Prediction Method Based on the Improved Mamba Model
 
