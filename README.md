@@ -115,12 +115,15 @@ args.cuda = args.use_cuda and torch.cuda.is_available()
 ### 环境依赖文件 (requirements.txt)
 
 ```shell
-numpy
-pandas
-scikit-learn
-tensorflow
-matplotlib
-jupyter
+akshare==1.14.29
+matplotlib==3.9.1
+numpy==2.0.0
+pandas==2.2.2
+scikit_learn==1.5.1
+statsmodels==0.14.2
+tensorflow_gpu==2.10.1
+torch==2.0.1+cu118
+xgboost==2.1.0
 ```
 
 ---
