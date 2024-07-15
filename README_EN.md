@@ -11,6 +11,9 @@ MTS (Multiscale Time Series) is an efficient stock prediction method based on th
 Yuanjian Zhang, Group 13, Beijing University of Posts and Telecommunications
 Email: yuanjianzhang2003@163.com
 
+### 示例结果
+![](MTS贵州茅台.png)
+
 ### File Structure
 
 ```
