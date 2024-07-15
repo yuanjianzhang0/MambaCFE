@@ -118,12 +118,15 @@ Special thanks to everyone who contributed and supported this project.
 ### Environment Dependencies File (requirements.txt)
 
 ```shell
-numpy
-pandas
-scikit-learn
-tensorflow
-matplotlib
-jupyter
+akshare==1.14.29
+matplotlib==3.9.1
+numpy==2.0.0
+pandas==2.2.2
+scikit_learn==1.5.1
+statsmodels==0.14.2
+tensorflow_gpu==2.10.1
+torch==2.0.1+cu118
+xgboost==2.1.0
 ```
 
 ---
